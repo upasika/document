@@ -1,0 +1,14 @@
+회의명: 클라우드 로봇 국책과제 아키텍처 및 표준화 회의
+일시: 2021.4.27. 10:00 ~ 12:00
+장소: 온라인
+참석자: 총괄 및 1세부, 2세부, 3세부
+주요내용:
+  1) RaaS(Robotics as a Service) ITU-T 국제 표준 초안 진행 현황 소개(eco-system, use-case)
+2) 유사 표준인 MLaaS(Machine Learning as a Service)의 요구사항과 use-case 소개
+3) MLaaS와 우리가 개발하고 있는 RaaS 표준의 차이점을 부각시킬 필요 있음
+4) 기능이나 아키텍처의 관점의 MLOps 보다는 로봇(HRI) 관점에서 data-driven MLOps를 고려할 필요 있음. 일례로 데이터의 실시간성과 위기 상황 대처 등을 use-case로 도출할 수 있음
+5) 양식의 use-case는 각 기관이 개발 또는 제공하는 클라우드 로보틱스 기능에 대한 서비스 구조도(Figure)와 절차(Description)로 표현할 수 있음
+
+Action Item
+1) [ETRI] 현재 진행 중인 표준 초안과 참고 자료를 배포
+2) [ALL] 각 기관은 문서 내 부록의 use-case 양식의 Description과 Figure를 작성하여 ETRI로 회신 요청. 내용은 한글로 보내주셔도 됨. 내용 작성이 어려우면 개발 중인 아키텍처와 관련한 기술 문서 등을 보내주시면 좋겠음 (~5/14까지)
